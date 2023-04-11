@@ -1,3 +1,13 @@
+After Downloading follow below commands.
+
+To run this project use this command => npm run start:dev
+front end=> http://localhost:3000/
+json database => http://localhost:3003/users
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
