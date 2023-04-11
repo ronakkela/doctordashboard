@@ -1,8 +1,8 @@
 After Downloading follow below commands.
 
-To run this project use this command => npm run start:dev
-front end=> http://localhost:3000/
-json database => http://localhost:3003/users
+(1) To run this project use this command => npm run start:dev  
+(2) front end=> http://localhost:3000/
+(3) json database => http://localhost:3003/users
 
 
 
